@@ -5,9 +5,6 @@ function App() {
   return (
     <div className="App">
   main app
-  main app
-  main app
-  main app
     </div>
   );
 }
